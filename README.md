@@ -5,10 +5,7 @@ This example here just support to parse MP4 File with basic profile that can wor
 Media file: https://dl.google.com/dl/android/cts/android-cts-media-1.0.zip
 
 Build and run on Windows
-
 1. Install Visual Studio 2010 Express
-
 2. Open Mp4Parser.sln by VS2010
-
 3. Change movie input at: Mp4Parser Property -> Configuration Properties -> Debugging -> Command Arguments
 
